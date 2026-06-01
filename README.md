@@ -1,5 +1,6 @@
-<p align="center"Add commentMore actions
+<p align="center">
 
 [![](https://files.catbox.moe/8kepwf.gif)]()
+![](https://komarev.com/ghpvc/?username=judehigh&label=TRAP+KILLS&color=57456e)
 
-<p aligen="center"
+<p align="center">
